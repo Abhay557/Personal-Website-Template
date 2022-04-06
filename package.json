@@ -1,0 +1,8 @@
+{
+  "name": "new-project",
+  "author": "Jacob Lee",
+  "publish": false,
+  "dependencies": {
+    "lib": "latest"
+  }
+}
